@@ -10,11 +10,11 @@ Motivação: Resumir automaticamente notícias em português de forma eficiente 
 Problema: O volume de notícias cresce exponencialmente, tornando difícil acompanhar informações relevantes. Um sistema de resumo automático ajuda a poupar tempo e identificar conteúdos importantes rapidamente.<br>
 
 ## Descrição da base de dados
-Como base de dados, utilizamos as notícias selecionadas abaixo do site <a href="https://globo.com" target="_blank">globo.com</a>
-    * https://g1.globo.com/carros/noticia/2024/11/30/veja-a-lista-de-10-carros-que-reprovaram-no-teste-de-seguranca-do-latin-ncap.ghtml,
-    * https://oglobo.globo.com/mundo/noticia/2024/11/30/tres-dias-apos-cessar-fogo-israel-ataca-hezbollah-no-sul-do-libano.ghtml,
-    * https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2024/11/29/principal-vitima-de-venda-de-sentencas-bb-teve-prejuizos-que-ultrapassam-r200-milhoes.ghtml,
-    * https://ge.globo.com/futebol/times/vasco/noticia/2024/11/30/torcedor-do-vasco-pedala-do-espirito-santo-ao-rio-para-assistir-ao-jogo-contra-o-atletico-go.ghtml,
+Como base de dados, utilizamos as notícias selecionadas abaixo do site <a href="https://globo.com" target="_blank">globo.com</a><br>
+    * https://g1.globo.com/carros/noticia/2024/11/30/veja-a-lista-de-10-carros-que-reprovaram-no-teste-de-seguranca-do-latin-ncap.ghtml,<br>
+    * https://oglobo.globo.com/mundo/noticia/2024/11/30/tres-dias-apos-cessar-fogo-israel-ataca-hezbollah-no-sul-do-libano.ghtml,<br>
+    * https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2024/11/29/principal-vitima-de-venda-de-sentencas-bb-teve-prejuizos-que-ultrapassam-r200-milhoes.ghtml,<br>
+    * https://ge.globo.com/futebol/times/vasco/noticia/2024/11/30/torcedor-do-vasco-pedala-do-espirito-santo-ao-rio-para-assistir-ao-jogo-contra-o-atletico-go.ghtml,<br>
     * https://oglobo.globo.com/cultura/noticia/2024/11/30/empresario-que-pagou-r-37-milhoes-por-banana-colada-com-fita-se-oferece-para-comprar-r-150-mil-em-banca-que-vendeu-fruta-original.ghtml
 
 ## Objetivo de negócio ou científico associado ao problema
